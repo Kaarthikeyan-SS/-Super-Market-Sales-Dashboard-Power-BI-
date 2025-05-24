@@ -4,9 +4,8 @@ This repository showcases a Power BI dashboard project built using a fictional S
 
 ## 📁 Repository Contents
 
-- `Super Store.pbix` - Power BI dashboard file (editable in Power BI Desktop).
-- `SuperStore Sales DataSet.xlsx` - Excel dataset used as the data source.
-- `Screenshot 2025-05-24 100502.png` - Image of the dashboard preview.
+- `Super Market Dashboard.png` - Image of the dashboard preview.
+- `Super Market Sales DataSet.xlsx` - Excel dataset used as the data source.
 
 ---
 
