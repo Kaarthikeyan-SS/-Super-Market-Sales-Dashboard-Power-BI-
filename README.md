@@ -58,4 +58,7 @@ Regions covered: **Central, East, South, West**
 - DAX (Data Analysis Expressions)
 - Power Query
 
+---
+### 📸 Dashboard Preview
+https://github.com/Kaarthikeyan-SS/-Super-Market-Sales-Dashboard-Power-BI-/blob/main/Super%20Market%20Dashborad.png
 
